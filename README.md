@@ -7,5 +7,6 @@ Hi everyone,
    I am trying as much as possible  to limit the use of the math.h library and build many of the functions afresh. 
    The calculator will build on the principles of logic to solve problems in mathematics and arithmetics mainly issues like limits, differentiation, integration and the likes
    ![cppcheck-action](https://github.com/99002601/sci-calci/workflows/cppcheck-action/badge.svg)
+   ![CI](https://github.com/99002601/sci-calci/workflows/CI/badge.svg)
    
   
